@@ -74,5 +74,4 @@ To deliver an interactive salary analysis tool that:
 - **Remote Work Strategy** – Assesses how experience level impacts remote adoption and salary distribution.
 
 ### 6.	Screenshots / Demos
-Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
-Example: ![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png) 
+Show what the dashboard looks like. - ![Alt text](https://github.com/CodingWithSiraj/Salary-Analysis-Dashboard/blob/main/Salary%20Analysis%20Dashboard.png)
